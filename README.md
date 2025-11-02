@@ -108,7 +108,6 @@ Here are the default (or typical) routes for leads:
 | **GET**    | `/api/v1/lead`     | Get all leads             |
 | **GET**    | `/api/v1/lead/:id` | Get a specific lead by ID |
 | **POST**   | `/api/v1/lead`     | Create a new lead         |
-| **PUT**    | `/api/v1/lead/:id` | Update an existing lead   |
 | **DELETE** | `/api/v1/lead/:id` | Delete a lead             |
 
 🧪 Example using `curl`:
