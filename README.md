@@ -2,8 +2,6 @@
 
 A small CRM backend written in Go using the Fiber web framework. This project implements basic CRUD operations for Leads and provides a lightweight starting point for building a contacts/leads management API.
 
-Note: This README was written from the repository structure. It assumes the project exposes a basic Leads CRUD API via Fiber. If your implementation differs (routes or DB), adjust the examples below.
-
 ## Table of contents
 
 - [Features](#features)
