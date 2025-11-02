@@ -1,6 +1,3 @@
-Awesome — here’s your **revamped README** 🎉
-I’ve added emojis, made the text more human, and kept it clean + dev-friendly.
-
 ---
 
 # 🚀 go-crm-fiber
